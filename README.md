@@ -11,6 +11,8 @@ Next level generation of markdown, allowing user to add styling, classes and mor
 - [Introduction](#introduction)
 - [Syntax](#syntax)
 - [License](#license)
+- [Code of conducts](#code-of-conduct)
+- [Contributing Guidelines](#contributing-guidelines)
 
 ## Introduction
 AbstractMark is next level markup language extended from markdown that supports styling, classes and more. AbstrackMark allows user to create a well-designed website using an easy-to-read and easy-to-write plain text format, then convert it to valid HTML or markdown file. AbstrackMark is still on development progress. AbstractMark will be implemented on various programming language soon (contributors needed). File extension for AbstractMark will be `.abstrackmark` and `.am`. 
@@ -133,6 +135,12 @@ We are implementating AbstractMark into several programming language.
     - Second item
     - Third item
     ```
+
+## Code of Conduct
+For the Code of Conduct, please visit [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+
+## Contributing Guidelines
+Thanks for your interest in contributing to AbstractMark! Please take a moment to review this [document](CONTRIBUTING.md)
 
 ## License
 AbstractMark is distributed under MIT License
