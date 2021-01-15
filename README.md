@@ -129,6 +129,10 @@ We are implementating AbstractMark into several programming language.
     - [ ] Lorem ipsum
     - [ ] Lorem ipsum
     ```
+- Underline
+    ```
+    %Underline text%
+    ```
 - Unordered List
     ```
     - First item
@@ -143,4 +147,4 @@ For the Code of Conduct, please visit [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
 Thanks for your interest in contributing to AbstractMark! Please take a moment to review this [document](CONTRIBUTING.md)
 
 ## License
-AbstractMark is distributed under MIT License
+AbstractMark is distributed under [MIT License](LICENSE)
