@@ -105,6 +105,10 @@ We are implementating AbstractMark into several programming language.
     2. Second item
     3. Third item
     ```
+- Strikethrough
+    ```
+    ~~Strikethrough text~~
+    ```
 - Style
 
     Syntax:
