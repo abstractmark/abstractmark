@@ -43,25 +43,31 @@ We are implementating AbstractMark into several programming language.
         ```
         ````
 - Class
-    - Define class
+    - Define class and tags styles (css standart)
         
         Syntax:
         ```
         ---define
-        className :
+        className{
             styles here
+        }
         ---
         ```
         
         Example:
         ```
         ---define
-        box :
+        .box{
             color: blue;
             background-color: red;
+        }
+        pre{
+            padding: 10px;
+            background-color: blue;
+        }
         ---
         ```
-    - Use class:
+    - Use class on element:
         Syntax:
         ```
         Element {!className}
@@ -69,6 +75,11 @@ We are implementating AbstractMark into several programming language.
         Example:
         ```
         ## Hello World {!className}
+        ```
+        **NB**: To use multiple classes, split it by space
+        Example: 
+        ```
+        ## Hello World {#headingId} {!class1 class2 class3}
         ```
 - Heading
     ```
