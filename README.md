@@ -18,7 +18,7 @@ Next level generation of markdown, allowing user to add styling, classes and mor
 AbstractMark is next level markup language extended from markdown that supports styling, classes and more. AbstrackMark allows user to create a well-designed website using an easy-to-read and easy-to-write plain text format, then convert it to valid HTML or markdown file. AbstrackMark is still on development progress. AbstractMark will be implemented on various programming language soon (contributors needed). File extension for AbstractMark will be `.abstrackmark` and `.am`. 
 
 ## Implementation
-We are implementating AbstractMark into several programming language. 
+- [JavaScript](https://github.com/abstractmark/javascript) (Still in development progress)
 
 ## Syntax
 - Blockquote
