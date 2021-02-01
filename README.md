@@ -138,6 +138,16 @@ AbstractMark is next level markup language extended from markdown that supports 
     | Header | Title |
     | Paragraph | Text |
     ```
+    Note:
+    - To use inline style and class in table, add the inline style or/and class syntax in right side after any of the table syntax and it will be parsed as attribute in table tag.
+        Example:
+        ```
+        | Syntax | Description |
+        | ----- | ----- |{!className}{color: blue;}
+        | Header | Title |
+        | Paragraph | Text |
+        ```
+    - Inline style and class for table data is not supported now(Maybe will be supported on next update)
 - Task List
     ```
     - [x] Lorem ipsum
