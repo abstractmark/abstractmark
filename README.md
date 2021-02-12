@@ -70,16 +70,16 @@ AbstractMark is next level markup language extended from markdown that supports 
     - Use class on element:
         Syntax:
         ```
-        Element {!className}
+        Element {.className}
         ```
         Example:
         ```
-        ## Hello World {!className}
+        ## Hello World {.className}
         ```
         **NB**: To use multiple classes, split it by space
         Example: 
         ```
-        ## Hello World {#headingId} {!class1 class2 class3}
+        ## Hello World {#headingId} {.class1 class2 class3}
         ```
 - Heading
     ```
