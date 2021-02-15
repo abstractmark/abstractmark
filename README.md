@@ -81,6 +81,14 @@ AbstractMark is next level markup language extended from markdown that supports 
         ```
         ## Hello World {#headingId} {.class1 class2 class3}
         ```
+- External CSS
+    ```
+    stylesheet = https://cdn.jsdelivr.net/npm/@fire-ui/fire-ui@0.2.3/FireUI.min.css
+    ```
+- External Script
+    ```
+    script = https://cdn.jsdelivr.net/npm/@fire-ui/fire-ui@0.2.3/FireUI.min.js
+    ```
 - Heading
     ```
     # h1
