@@ -118,6 +118,15 @@ AbstractMark is next level markup language extended from markdown that supports 
     ```
     _italicized text_
     ```
+- Marquee
+    - Left to right
+        ```
+        ~> Marquee text
+        ```
+    - Right to left
+        ```
+        <~ Marquee text
+        ```
 - Ordered List
     ```
     1. First item
